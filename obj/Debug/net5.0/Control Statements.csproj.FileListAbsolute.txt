@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\ref\Control Statements.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\bin\Debug\net5.0\Control Statements.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\ref\Control Statements.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Control Statements\obj\Debug\net5.0\Control Statements.genruntimeconfig.cache
